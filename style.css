@@ -6,7 +6,7 @@ header{
     height: 50px;
     background-color: aliceblue;
     padding:0.5rem;
-    margin-bottom: 20px;
+    
 }
 .logo{
     width: 50px;
@@ -32,7 +32,7 @@ header{
   width: 1230px;
   margin-bottom: 50px;
   z-index: -1;
-  
+  margin-top: 20px;
 }
 
 .slider {
