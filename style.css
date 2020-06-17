@@ -176,6 +176,7 @@ header{
     display: flex;
     justify-content: space-between;
 }
+
 .card{
     border-radius: 15%;
     width: 150px;
@@ -183,6 +184,4 @@ header{
     height: 190px;
     background-color:#e8e1cc;
     margin-left: 2rem;
-    margin-right: 2rem;
-}
-
+    margin-right: 2rem;}
