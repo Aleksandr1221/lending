@@ -173,11 +173,16 @@ header{
     height: 100%;
     padding: 1rem;
     background-color: white;
+    display: flex;
+    justify-content: space-between;
 }
 .card{
-    border-radius: 25%;
+    border-radius: 15%;
     box-shadow: rgba(0, 0, 0, .5);
-    width: 80px;
-    height: 90px;
+    width: 180px;
+    height: 220px;
+    background-color:#e8e1cc;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
 
