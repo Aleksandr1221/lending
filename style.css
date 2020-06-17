@@ -178,9 +178,9 @@ header{
 }
 .card{
     border-radius: 15%;
-    box-shadow: rgba(0, 0, 0, .5);
-    width: 180px;
-    height: 220px;
+    width: 150px;
+    box-shadow: 15px rgba(0, 0, 0, .5);
+    height: 190px;
     background-color:#e8e1cc;
     margin-left: 2rem;
     margin-right: 2rem;
