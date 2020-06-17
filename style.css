@@ -32,6 +32,39 @@ header{
 }
 
 
+.ul1 {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 10px;
+    
+
+}
+
+.ul1 li {
+    float: right;
+}
+
+.ul1 li a{
+    color: #608a96;
+    display: block;
+    height: 50px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+.ul1 li a:hover {
+    background: #608a96;
+    transition-duration: 0.3s;
+    border-radius: 10px;
+    color: #B3D5DF;
+}
+
+
 .wrapper {
 	height: 300px;
 	margin: 1px auto 0;
