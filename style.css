@@ -32,6 +32,25 @@ header{
 }
 
 
+nav {
+    width: 100%;
+    margin: 0 auto;
+    background: #7aafbf ;
+    
+}
+
+nav:before {
+    content: none;
+    display: block;
+    height: 50px;
+    width: 100%;
+    background: #000;
+    position: absolute;
+    left: 0;
+    z-index: -1;
+}
+
+
 .ul1 {
     margin: 0;
     padding: 0;
