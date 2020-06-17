@@ -60,11 +60,11 @@ header{
   max-width: 100%;
 }
 
-.slide1 { background-image: url(slaiderphoto1.jpg); }
-.slide2 { background-image: url(photoslaider4.jpg); }
-.slide3 { background-image: url(minerale.jpg); }
-.slide4 { background-image: url(gora.jpg);  background-position-y: -90px ; background-repeat: no-repeat; background-size: cover;} 
-.slide5 { background-image: url(vulkan.jpg);background-position-y: -300px}
+.slide1 { background-image: url(); }
+.slide2 { background-image: url(); }
+.slide3 { background-image: url(); }
+.slide4 { background-image: url(); } 
+.slide5 { background-image: url(); }
 
 .wrapper .controls {
 	left: 50%;
