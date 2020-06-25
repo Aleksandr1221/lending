@@ -6,7 +6,7 @@ body {
 }
 
 .verticalMenu {
-    position: absolute;
+    position: fixed;
     width: 48px;
     height: 768px;
     left: 0px;
@@ -27,7 +27,7 @@ body {
 }
 
 .said_menu {
-    position: absolute;
+    position: fixed;
     width: 224px;
     height: 768px;
     left: 48px;
@@ -127,8 +127,8 @@ body {
 }
 
 .header_surface {
-    position: absolute;
-    width: 1094px;
+    position: fixed;
+    width: 1000px;
     height: 72px;
     left: 272px;
     top: 0px;
@@ -159,7 +159,7 @@ color: #82B284;
 .header_surface_item_icons {
     position: absolute;
     float: right;
-    right: 40px;
+    right: -40px;
     top: 24px;
 
 }
